@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab05\Lab05\Lab05_1\bin\Debug\net9.0\Lab05_1.exe
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab05\Lab05\Lab05_1\bin\Debug\net9.0\Lab05_1.deps.json
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab05\Lab05\Lab05_1\bin\Debug\net9.0\Lab05_1.runtimeconfig.json
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab05\Lab05\Lab05_1\bin\Debug\net9.0\Lab05_1.dll
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab05\Lab05\Lab05_1\bin\Debug\net9.0\Lab05_1.pdb
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab05\Lab05\Lab05_1\obj\Debug\net9.0\Lab05_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab05\Lab05\Lab05_1\obj\Debug\net9.0\Lab05_1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab05\Lab05\Lab05_1\obj\Debug\net9.0\Lab05_1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab05\Lab05\Lab05_1\obj\Debug\net9.0\Lab05_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab05\Lab05\Lab05_1\obj\Debug\net9.0\Lab05_1.dll
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab05\Lab05\Lab05_1\obj\Debug\net9.0\refint\Lab05_1.dll
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab05\Lab05\Lab05_1\obj\Debug\net9.0\Lab05_1.pdb
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab05\Lab05\Lab05_1\obj\Debug\net9.0\Lab05_1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab05\Lab05\Lab05_1\obj\Debug\net9.0\ref\Lab05_1.dll
