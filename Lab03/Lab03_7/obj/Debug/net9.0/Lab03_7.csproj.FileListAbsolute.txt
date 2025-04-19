@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab03\Lab03_7\bin\Debug\net9.0\Lab03_7.exe
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab03\Lab03_7\bin\Debug\net9.0\Lab03_7.deps.json
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab03\Lab03_7\bin\Debug\net9.0\Lab03_7.runtimeconfig.json
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab03\Lab03_7\bin\Debug\net9.0\Lab03_7.dll
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab03\Lab03_7\bin\Debug\net9.0\Lab03_7.pdb
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab03\Lab03_7\obj\Debug\net9.0\Lab03_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab03\Lab03_7\obj\Debug\net9.0\Lab03_7.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab03\Lab03_7\obj\Debug\net9.0\Lab03_7.AssemblyInfo.cs
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab03\Lab03_7\obj\Debug\net9.0\Lab03_7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab03\Lab03_7\obj\Debug\net9.0\Lab03_7.dll
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab03\Lab03_7\obj\Debug\net9.0\refint\Lab03_7.dll
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab03\Lab03_7\obj\Debug\net9.0\Lab03_7.pdb
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab03\Lab03_7\obj\Debug\net9.0\Lab03_7.genruntimeconfig.cache
+C:\Users\Admin\Desktop\back-end\tuan1\Lab\Lab03\Lab03_7\obj\Debug\net9.0\ref\Lab03_7.dll
