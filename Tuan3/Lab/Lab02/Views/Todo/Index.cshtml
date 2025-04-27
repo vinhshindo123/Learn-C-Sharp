@@ -1,0 +1,37 @@
+﻿<h1>Todo List</h1>
+<button class="btn btn-primary mb-3" onclick="window.location.href='/todo-add';">Add Task</button>
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>STT</th>
+            <th>Task</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody id="taskList">
+        <tr>
+            <td>1</td>
+            <td>Ôn tập HTML</td>
+            <td>
+                <a class="btn btn-warning" href="/todo-edit?id=1&task=Ôn%20tập%20HTML">Edit</a>
+                <a class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Ôn tập CSS</td>
+            <td>
+                <a class="btn btn-warning" href="/todo-edit?id=2&task=Ôn%20tập%20CSS">Edit</a>
+                <a class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Ôn tập Bootstrap</td>
+            <td>
+                <a class="btn btn-warning" href="/todo-edit?id=3&task=Ôn%20tập%20Bootstrap">Edit</a>
+                <a class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    </tbody>
+</table>

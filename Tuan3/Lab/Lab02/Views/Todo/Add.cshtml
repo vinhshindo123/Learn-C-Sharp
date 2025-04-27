@@ -1,0 +1,10 @@
+﻿<h2>Add New Task</h2>
+
+<form method="post" asp-action="Add">
+    <div class="form-group">
+        <label>Task</label>
+        <input type="text" name="task" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-success mt-2" formaction="/todo-home">Save</button>
+    <a href="/todo-home" class="btn btn-secondary mt-2">Cancel</a>
+</form>

@@ -1,0 +1,23 @@
+﻿<h2>Edit Task</h2>
+
+<form method="post" asp-action="Edit">
+    <input type="hidden" id="id" name="id" value="" />
+    <div class="form-group">
+        <label for="task">Task</label>
+        <input type="text" id="task" name="task" value="" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-success mt-2" formaction="/todo-home">Update</button>
+    <a href="/todo-home" class="btn btn-secondary mt-2">Cancel</a>
+</form>
+
+<script>
+    // Hàm lấy tham số từ URL
+    function getQueryParam(name) {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.get(name);
+    }
+
+    // Gán giá trị vào ô input
+    document.getElementById('task').value = getQueryParam('task');
+    document.getElementById('id').value = getQueryParam('id');
+</script>
