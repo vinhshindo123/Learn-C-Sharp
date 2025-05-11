@@ -1,0 +1,45 @@
+﻿@model Lab.Models.User
+
+@{
+    ViewData["Title"] = "Edit User";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4 text-center">Edit User</h2>
+
+    <form asp-action="Edit" method="post" class="mx-auto" style="max-width: 600px;">
+        <div class="form-group mb-3">
+            <label asp-for="id" class="form-label">ID</label>
+            <input asp-for="id" class="form-control" readonly />
+            <span asp-validation-for="id" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="username" class="form-label">Username</label>
+            <input asp-for="username" class="form-control" />
+            <span asp-validation-for="username" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="password" class="form-label">Password</label>
+            <input asp-for="password" class="form-control" type="password" value="@Model.password" />
+            <span asp-validation-for="password" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="phone" class="form-label">Phone</label>
+            <input asp-for="phone" class="form-control" />
+            <span asp-validation-for="phone" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="email" class="form-label">Email</label>
+            <input asp-for="email" class="form-control" type="email" />
+            <span asp-validation-for="email" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Save Changes</button>
+        <a asp-action="Index" class="btn btn-secondary ms-2">Cancel</a>
+    </form>
+</div>
+
